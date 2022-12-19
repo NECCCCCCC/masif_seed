@@ -1,4 +1,4 @@
-masif_root=$(git rev-parse --show-toplevel)/masif
+masif_root=/job/code/masif_seed/masif
 masif_source=$masif_root/source
 export PYTHONPATH=$PYTHONPATH:$masif_source
 export masif_seed_root

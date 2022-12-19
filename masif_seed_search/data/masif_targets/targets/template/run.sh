@@ -1,4 +1,4 @@
-masif_seed_root=$(git rev-parse --show-toplevel)
+masif_seed_root=/job/code/masif_seed
 masif_seed_search_root=$masif_seed_root/masif_seed_search
 masif_root=$masif_seed_root/masif
 masif_target_root=$masif_seed_search_root/data/masif_targets/
